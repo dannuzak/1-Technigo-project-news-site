@@ -1,9 +1,13 @@
+<!-- @format -->
+
 # News Site
 
 The assigment was to create a magazine or news site and implement:
 -responsive design for mobile, desktop and tablet
 -box model
 -layout using flexbox
+
+Testing
 
 ## The problem
 
